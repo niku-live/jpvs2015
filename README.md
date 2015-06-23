@@ -3,7 +3,7 @@
 Examples of JPVS 2015 event
 
 #Video įrašai
-Visi video įrašai iš stovyklos paskaitų sudėti čia: http://1drv.ms/1QMeBfn
+Kur sudėti video įrašai informacija moksleiviams pateikiama atskirai elektroniniu paštu.
 
 Failų aprašymai:
 - 2015-06-22\2015-06-22_part1.avi: per paskaitą buvo aptarti konsolinės aplikacijos kūrimo principai, C# programavimo kalbos pradmenys ir pan.
