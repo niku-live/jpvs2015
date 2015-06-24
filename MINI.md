@@ -1,31 +1,31 @@
-##Mini uşduotëlës.
+ï»¿#Mini uÅ¾duotÄ—lÄ—s.
 
-#1 tema: Konsolinës aplikacijos
-1 uşd. 
-  Sàlyga: Sukurkite konsolinæ programëlæ, kuri viskà, kà áveda vartotojas, iğveda atvirkğèiai (pvz. ávedus "Labas", iğvedama "sabaL"). 
-  Patarimai: naudokite string klasës standartinæ komandà Reverse(), pvz.: string s = "Labas"; s = s.Reverse();
-2 uşd.
-  Sàlyga: Sukurkite konsolinæ programëlæ, kuri iğspausdintø á ekranà viskà, kas pateikiama kaip programos paleidimo parametrai (t.y. jei programa vadinasi programele.exe ir ji paleidşiama iğ komandinës eilutës surinkus "programele.exe test1 test2 test3", tai atskirose eilutëse turëtø bûti iğspausdinamas tekstas "test1", "test2", "test3").
-  Patarimai: naudokite masyvà "args", kuris yra standartinio metodo Main vienintelis parametras.
-3 uşd.
-  Sàlyga: Sukurkite konsolinæ programëlæ, kuriai pasileidus tiesiog iğvedamas vienas simbolis "#", taèiau po to galima klaviatûros pagalba (paspaudus vienà iğ klaviğø "a", "s", "d", "w") ğá simbolá judinti ekrane, t.y. paspaudus klaviğà "d" simbolis pajuda per vienà simbolá á değinæ, paspaudus "s", simbolis pajuda viena eilute şemiau.
-  Patarimai: 1) nuskaityti paspaudam klaviğui naudokite komandà Console.ReadKey(true); 2) pakeisti kursoriaus pozicijà naudokite komandà Console.SetCursorPosition(x, y)
-4 uşd.
-  Sàlyga: Sukurkite konsolinæ programëlæ, kuri lauktø paspaudşiamo klaviğo ir paspaudus tam tikrà klaviğà iğvestø garsiná signalà
-  Patarimai: 1) nuskaityti paspaudam klaviğui naudokite komandà Console.ReadKey(true); 2) iğvesti garsiniam signalui naudokite komandà Console.Beep(frequency, duration)
+##1 tema: KonsolinÄ—s aplikacijos
+#1 uÅ¾d. 
+  SÄ…lyga: Sukurkite konsolinÄ™ programÄ—lÄ™, kuri viskÄ…, kÄ… Ä¯veda vartotojas, iÅ¡veda atvirkÅ¡Äiai (pvz. Ä¯vedus "Labas", iÅ¡vedama "sabaL"). 
+  Patarimai: naudokite string klasÄ—s standartinÄ™ komandÄ… Reverse(), pvz.: string s = "Labas"; s = s.Reverse();
+#2 uÅ¾d.
+  SÄ…lyga: Sukurkite konsolinÄ™ programÄ—lÄ™, kuri iÅ¡spausdintÅ³ Ä¯ ekranÄ… viskÄ…, kas pateikiama kaip programos paleidimo parametrai (t.y. jei programa vadinasi programele.exe ir ji paleidÅ¾iama iÅ¡ komandinÄ—s eilutÄ—s surinkus "programele.exe test1 test2 test3", tai atskirose eilutÄ—se turÄ—tÅ³ bÅ«ti iÅ¡spausdinamas tekstas "test1", "test2", "test3").
+  Patarimai: naudokite masyvÄ… "args", kuris yra standartinio metodo Main vienintelis parametras.
+#3 uÅ¾d.
+  SÄ…lyga: Sukurkite konsolinÄ™ programÄ—lÄ™, kuriai pasileidus tiesiog iÅ¡vedamas vienas simbolis "#", taÄiau po to galima klaviatÅ«ros pagalba (paspaudus vienÄ… iÅ¡ klaviÅ¡Å³ "a", "s", "d", "w") Å¡Ä¯ simbolÄ¯ judinti ekrane, t.y. paspaudus klaviÅ¡Ä… "d" simbolis pajuda per vienÄ… simbolÄ¯ Ä¯ deÅ¡inÄ™, paspaudus "s", simbolis pajuda viena eilute Å¾emiau.
+  Patarimai: 1) nuskaityti paspaudam klaviÅ¡ui naudokite komandÄ… Console.ReadKey(true); 2) pakeisti kursoriaus pozicijÄ… naudokite komandÄ… Console.SetCursorPosition(x, y)
+#4 uÅ¾d.
+  SÄ…lyga: Sukurkite konsolinÄ™ programÄ—lÄ™, kuri lauktÅ³ paspaudÅ¾iamo klaviÅ¡o ir paspaudus tam tikrÄ… klaviÅ¡Ä… iÅ¡vestÅ³ garsinÄ¯ signalÄ…
+  Patarimai: 1) nuskaityti paspaudam klaviÅ¡ui naudokite komandÄ… Console.ReadKey(true); 2) iÅ¡vesti garsiniam signalui naudokite komandÄ… Console.Beep(frequency, duration)
 
-#2 tema: darbalaukio (desktop'inës, Windows) aplikacijos
-1 uşd. 
-  Sàlyga: Bëgiojantis mygtukas - sukurkite WindowsForms aplikacijà, kurioje bûtø vienas mygtukas, taèiau virğ jo uşvedus pele, mygtukas pabëgtø.
-  Patarimai: naudokite mygtuko ávyká MouseMove bei mygtuko savybes button1.Location.X ir button1.Location.Y;
-2 uşd. 
-  Sàlyga: Sukurkite WindowsForms aplikacijà, kurios lango apaèioje bûtø bûsenos juosta, o joje progreso indikatorius. Taip pat formoje bûtø mygtukas, kurá paspaudus, progreso indikatorius padidëtø vienetu.
+##2 tema: darbalaukio (desktop'inÄ—s, Windows) aplikacijos
+#1 uÅ¾d. 
+  SÄ…lyga: BÄ—giojantis mygtukas - sukurkite WindowsForms aplikacijÄ…, kurioje bÅ«tÅ³ vienas mygtukas, taÄiau virÅ¡ jo uÅ¾vedus pele, mygtukas pabÄ—gtÅ³.
+  Patarimai: naudokite mygtuko Ä¯vykÄ¯ MouseMove bei mygtuko savybes button1.Location.X ir button1.Location.Y;
+#2 uÅ¾d. 
+  SÄ…lyga: Sukurkite WindowsForms aplikacijÄ…, kurios lango apaÄioje bÅ«tÅ³ bÅ«senos juosta, o joje progreso indikatorius. Taip pat formoje bÅ«tÅ³ mygtukas, kurÄ¯ paspaudus, progreso indikatorius padidÄ—tÅ³ vienetu.
   Patarimai: naudokite komponentus StatusStrip ir ToolStripProgressBar.
-3 uşd.
-  Sàlyga: Sukurkite programëlæ, kuris paleidus padaro ekrano vaizdo kopijà (screenshot'à) ir já uşsideda kaip savo vaizdà (kitaip tariant atrodo, jog matome desktop'à, taèiau kà bepaspaustume, niekas neveikia)
+#3 uÅ¾d.
+  SÄ…lyga: Sukurkite programÄ—lÄ™, kuris paleidus padaro ekrano vaizdo kopijÄ… (screenshot'Ä…) ir jÄ¯ uÅ¾sideda kaip savo vaizdÄ… (kitaip tariant atrodo, jog matome desktop'Ä…, taÄiau kÄ… bepaspaustume, niekas neveikia)
   Patarimai:
-    1) Pasirinkite formos savybæ FormBorderStyle á "None".
-    2) Galite pasinaudoti ğia programinio kodo iğkarpa, kad padaryti ekrano screenshot'à:
+    1) Pasirinkite formos savybÄ™ FormBorderStyle Ä¯ "None".
+    2) Galite pasinaudoti Å¡ia programinio kodo iÅ¡karpa, kad padaryti ekrano screenshot'Ä…:
             Bitmap _screenBitmap = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
 
             using (Graphics g = Graphics.FromImage(_screenBitmap))
@@ -36,33 +36,33 @@
                                  _screenBitmap.Size,
                                  CopyPixelOperation.SourceCopy);
             }     
-    3) Screenshot'à reikia daryti iki formos pasirodymo (kad nebûtø paèios formos vaizdo), tam panaudokite formos ávyká "Load".
-    4) Paveiksliukà geriausia uşdëti vos vos forma pasirodo, tam naudokite formos ávyká "Shown"
-4 uşd.
-  Sàlyga: Sukurkite programëlæ - tekstø redaktoriø, kuriame paşymëjus tekstà ir paspaudus değiná pelës klaviğà pasirodytø kontekstinis meniu su punktai "Nuspalvinti raudonai" ir "Nuspalvinti mëlynai", pasirinkus vienà iğ punktø tik paşymëtas tekstas bûtø nuspalvinamas pasirinkta spalva.
+    3) Screenshot'Ä… reikia daryti iki formos pasirodymo (kad nebÅ«tÅ³ paÄios formos vaizdo), tam panaudokite formos Ä¯vykÄ¯ "Load".
+    4) PaveiksliukÄ… geriausia uÅ¾dÄ—ti vos vos forma pasirodo, tam naudokite formos Ä¯vykÄ¯ "Shown"
+#4 uÅ¾d.
+  SÄ…lyga: Sukurkite programÄ—lÄ™ - tekstÅ³ redaktoriÅ³, kuriame paÅ¾ymÄ—jus tekstÄ… ir paspaudus deÅ¡inÄ¯ pelÄ—s klaviÅ¡Ä… pasirodytÅ³ kontekstinis meniu su punktai "Nuspalvinti raudonai" ir "Nuspalvinti mÄ—lynai", pasirinkus vienÄ… iÅ¡ punktÅ³ tik paÅ¾ymÄ—tas tekstas bÅ«tÅ³ nuspalvinamas pasirinkta spalva.
   Patarimai:
-    1) Kontekstiniam meniu rodyti naudokite komponentà "ContextMenuStrip" ir elemente, ties kuriuo turëtø pasirodyti ğis kontekstinis meniu pakeiskite savybæ "Context Menu Strip".
-    2) Kaip teksto redagavimo elementà naudokite komponentà "RichTextBox", nes tik ğiame elemente galima keisti spalvà daliai teksto.
-    3) Paşymëto teksto spalvà galima pakeisti su komandà richTextBox1.SelectionColor = Color.Red;
+    1) Kontekstiniam meniu rodyti naudokite komponentÄ… "ContextMenuStrip" ir elemente, ties kuriuo turÄ—tÅ³ pasirodyti Å¡is kontekstinis meniu pakeiskite savybÄ™ "Context Menu Strip".
+    2) Kaip teksto redagavimo elementÄ… naudokite komponentÄ… "RichTextBox", nes tik Å¡iame elemente galima keisti spalvÄ… daliai teksto.
+    3) PaÅ¾ymÄ—to teksto spalvÄ… galima pakeisti su komandÄ… richTextBox1.SelectionColor = Color.Red;
 
-#3 tema: darbalaukio aplikacijos II (aplikacijos paremtos WPF - Windows Presentation Foundation).
-1 uşd.
-  Sàlyga: Sukurkite WPF programëlæ, kuri atrodytø kaip Notepad programa. Programa nieko neturi daryti, taèiau turëti visiğkai toká pat vaizdà kaip ir Notepad.
+##3 tema: darbalaukio aplikacijos II (aplikacijos paremtos WPF - Windows Presentation Foundation).
+#1 uÅ¾d.
+  SÄ…lyga: Sukurkite WPF programÄ—lÄ™, kuri atrodytÅ³ kaip Notepad programa. Programa nieko neturi daryti, taÄiau turÄ—ti visiÅ¡kai tokÄ¯ pat vaizdÄ… kaip ir Notepad.
   Patarimai:
-    1) Programëlei turëtø uştekti ğiø elementø: Grid, TextBox, Menu, ScrollViewer, dël groşio dar galima panaudoti Border elementà.
-    2) Norint, kad TextBox elementas leistø suvesti keliø eiluèiø tekstà, reikëtø nurodyti savybes TextWrapping="Wrap" ir AcceptsReturn="True".
-2 uşd.
-  Sàlyga: Sukurkite WPF programëlæ, kuri susidëtø iğ vieno mygtuko ir paveiksliuko elemento (tarkime linksmo veiduko), paspaudus mygtukà paveiksliukas turëtø vienà kartà apsisukti 360 laipsniø, sukimosi animacija turëtø trukti apie 2 sekundes.
+    1) ProgramÄ—lei turÄ—tÅ³ uÅ¾tekti Å¡iÅ³ elementÅ³: Grid, TextBox, Menu, ScrollViewer, dÄ—l groÅ¾io dar galima panaudoti Border elementÄ….
+    2) Norint, kad TextBox elementas leistÅ³ suvesti keliÅ³ eiluÄiÅ³ tekstÄ…, reikÄ—tÅ³ nurodyti savybes TextWrapping="Wrap" ir AcceptsReturn="True".
+#2 uÅ¾d.
+  SÄ…lyga: Sukurkite WPF programÄ—lÄ™, kuri susidÄ—tÅ³ iÅ¡ vieno mygtuko ir paveiksliuko elemento (tarkime linksmo veiduko), paspaudus mygtukÄ… paveiksliukas turÄ—tÅ³ vienÄ… kartÄ… apsisukti 360 laipsniÅ³, sukimosi animacija turÄ—tÅ³ trukti apie 2 sekundes.
   Patarimai:
-    1) Programëlei sukurti reikia apibrëşti paveiksliuko animacijà. Tam geriausia naudoti áranká Blend for Visual Studio 2013.
-    2) Yra keli bûdai paleisti animacijà: a) iğ programinio kodo iğkviesti storyboard.Begin(), kur storyboard - animacijos objektas b) Blend redaktoriuje uşdëti trigerá, kad paspaudus mygtukà sugrotø animacija.
-3 uşd.
-  Sàlyga: Sukurkite WPF programëlæ, kuri susidëtø iğ vieno mygtuko, uşvedus pele virğ mygtuko turëtø iğsiğaukti kokia nors animacija - pvz. mygtukas judantis tai á kairæ, tai á değinæ. Kas nori sudëtingiau - padarykite, kad ta pati animacija iğsikviestø paneğus pele langà.
-4 uşd.
-  Sàlyga: Sukurkite WPF programëlæ, kuri susidëtø iğ teksto ávedimo lauko ir mygtuko, paspaudus mygtukà, teksto spalva pasikeistø á raudonà. Taip pat visi elementai (mygtukas ir teksto laukelis) turi bûti animuoti - suktis 3D erdvëje apie Z ağá.
+    1) ProgramÄ—lei sukurti reikia apibrÄ—Å¾ti paveiksliuko animacijÄ…. Tam geriausia naudoti Ä¯rankÄ¯ Blend for Visual Studio 2013.
+    2) Yra keli bÅ«dai paleisti animacijÄ…: a) iÅ¡ programinio kodo iÅ¡kviesti storyboard.Begin(), kur storyboard - animacijos objektas b) Blend redaktoriuje uÅ¾dÄ—ti trigerÄ¯, kad paspaudus mygtukÄ… sugrotÅ³ animacija.
+#3 uÅ¾d.
+  SÄ…lyga: Sukurkite WPF programÄ—lÄ™, kuri susidÄ—tÅ³ iÅ¡ vieno mygtuko, uÅ¾vedus pele virÅ¡ mygtuko turÄ—tÅ³ iÅ¡siÅ¡aukti kokia nors animacija - pvz. mygtukas judantis tai Ä¯ kairÄ™, tai Ä¯ deÅ¡inÄ™. Kas nori sudÄ—tingiau - padarykite, kad ta pati animacija iÅ¡sikviestÅ³ paneÅ¡us pele langÄ….
+#4 uÅ¾d.
+  SÄ…lyga: Sukurkite WPF programÄ—lÄ™, kuri susidÄ—tÅ³ iÅ¡ teksto Ä¯vedimo lauko ir mygtuko, paspaudus mygtukÄ…, teksto spalva pasikeistÅ³ Ä¯ raudonÄ…. Taip pat visi elementai (mygtukas ir teksto laukelis) turi bÅ«ti animuoti - suktis 3D erdvÄ—je apie Z aÅ¡Ä¯.
   Patarimai:
-    1) 3D efektui pasiekti visus formos elementus sudëkite á elementà "Viewport2DVisual3D", o já idëkite á elementà "Viewport3D".
-    2) Pradëti programëlæ galite nuo ğio pavyzdşio:
+    1) 3D efektui pasiekti visus formos elementus sudÄ—kite Ä¯ elementÄ… "Viewport2DVisual3D", o jÄ¯ idÄ—kite Ä¯ elementÄ… "Viewport3D".
+    2) PradÄ—ti programÄ—lÄ™ galite nuo Å¡io pavyzdÅ¾io:
 <Viewport3D>
     <Viewport3D.Camera>
         <PerspectiveCamera Position="0, 0, 4"/>
