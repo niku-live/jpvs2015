@@ -1,7 +1,7 @@
 ﻿##Sąlyga
 
 2 užduotimi sukurtą puslapį papildykite dar vienu CSS failų ir padarykite, kad jis būtų naudojamas naršyklėje pasirinkus "Print Preview" (t.y. kad skirtingi stiliai būtų naudojami atvaizdavimui ir spausdinimui". Spaudinimo vaizdas turėtų atrodyti panašiai į tokį (atkreipkite dėmesį, kad 3 mygtukas paslėptas):
-https://raw.githubusercontent.com/niku-live/jpvs2015/master/MiniProblems/5%20tema%20-%20HTML%20ir%20CSS/Vol5Ex2/example2.png
+https://raw.githubusercontent.com/niku-live/jpvs2015/master/MiniProblems/5%20tema%20-%20HTML%20ir%20CSS/Vol5Ex3/example3.png
 
 ##Patarimai
 ```html

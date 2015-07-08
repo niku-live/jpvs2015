@@ -1,0 +1,22 @@
+﻿body {
+}
+
+#Text1
+{
+    color: black;
+}
+
+.melynas_mygtukas
+{
+  background-color: white;
+  color: black;
+}
+
+label
+{
+    color: black;
+}
+
+#Button3{
+    display:none;
+}
