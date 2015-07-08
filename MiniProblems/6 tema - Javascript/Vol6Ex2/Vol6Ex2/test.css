@@ -1,0 +1,43 @@
+﻿body {
+}
+
+
+#Text1
+{
+    color: red;
+}
+
+.melynas_mygtukas
+{
+  background-color: blue;
+  color: red;
+}
+
+label
+{
+    color: green;
+}
+
+
+#top
+{
+    height: 10%;
+    width: 100%;
+    background-color: yellow;
+}
+
+#left
+{
+    display: inline-block;
+    width: 100px;
+    height: 90%;
+    float: left;
+    background-color: gray;
+}
+
+#body
+{
+    display: inline-block;
+    float:left;
+    margin-left: 20px;    
+}
