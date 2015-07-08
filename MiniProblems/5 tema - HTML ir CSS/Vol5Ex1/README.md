@@ -1,11 +1,12 @@
 ﻿##Sąlyga
 
 Panaudojant vien HTML elementus sukurkite puslapį kuris atrodytų taip:
+https://raw.githubusercontent.com/niku-live/jpvs2015/master/MiniProblems/5%20tema%20-%20HTML%20ir%20CSS/Vol5Ex1/example1.png
 
 ##Patarimai
-
+```html
 1. Užduočiai atlikti prisireiks šių elementų:
-  a) DIV konteineris - standartinis HTML konteineris skirtas kitiems elementams grupuoti. Paprastai visi kiti elementai kuriami DIV konteinerių viduje. Redaktoriaus paletėje elementas vadinasi "Div". HTML kode elementas pradedamas žyme "<div>", o užbaigiamas žyme "</div>", viskas, kad parašyta tarp "<div> ir </div>" laikoma, jog yra DIV konteinerio viduje.
+  a) DIV konteineris - standartinis HTML konteineris skirtas kitiems elementams grupuoti. Paprastai visi kiti elementai kuriami DIV konteinerių viduje. Redaktoriaus paletėje elementas vadinasi "Div". HTML kode elementas pradedamas žyme "<div>", o užbaigiamas žyme "</div>", viskas, kad parašyta tarp "<div>" ir "</div>" laikoma, jog yra DIV konteinerio viduje.
   b) Horizontalios linijos - HTMl elementas per visą puslapį nupaišantis horizontalią liniją. Paletėje vadinamas "Horizontal rule", HTML kode užrašomas žyme "<hr/>. Dažnai naudojamas ir kitas elementas "<br/>", kuris atitinka, tiesiog perkėlimą į kitą eilutę.
   c) Teksto įvedimo laukelis - elementas tekstui įvesti. Paletėje vadinamas "Input (text)", HTML kode užrašomas žyme "<input type="text" />".
   d) Mygtukas - elementas mygtukui atvaizduoti. Paletėje vadinamas "Input (button)", HTML kode užrašomas žyme "<input type="button"/>". Mygtukui taip pat dažnai nustatoma savybė "value", tada jis turi pavadinimą, pvz. "<input type="button" value="Mygtukas 1"/>" sukurs mygtuką, kuris turės savo viduje tekstą "Mygtukas 1".
@@ -29,3 +30,4 @@ Panaudojant vien HTML elementus sukurkite puslapį kuris atrodytų taip:
   d) Po antrosios horizontaliosios linijos įterpkite du mygtuko elementus (<input type="button"/> elementas HTML kode arba "Input (Button)" elementas iš paletės).
   e) Pakeiskite mygtukų savybes "value" atitinkamai į "Mygtukas 1" ir "Mygtukas 2".
 4. Paleiskite puslapį pasirinkę Debug -> Start Debugging.
+```
