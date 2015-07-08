@@ -14,10 +14,10 @@ https://raw.githubusercontent.com/niku-live/jpvs2015/master/MiniProblems/5%20tem
   a) Design - rodomas tik pusplapio vaizdas be HTML kodo. Tokiame koregavimo rėžime galima tiesiog dėlioti elementus ir paletės ir keisti savybės pelės pagalba, koreguoti HTML kodo rankomis negalima.
   b) Source - rodomas tik HTML puslapio kodas ir visas puslapis koreguojamas keičiant kodą.
   c) Split - apjungiami Design ir Source langai, t.y. rodomas tiek HTML kodas, tiek puslapio vaizdas.
-
+```
 
 ##Eiga
-
+```html
 1. Sukurkite naują Visual Studio ASP.NET projektą:
   a) Pasirenkate File -> New -> Project
   b) Iš šablonų pasirenkate Visaul C# -> Web -> ASP.NET Web Application Project
