@@ -10,17 +10,17 @@ Sukurkite programėlę, kuris paleidus padaro ekrano vaizdo kopiją (screenshot'
 2. Galite pasinaudoti šia programinio kodo iškarpa, kad padaryti ekrano screenshot'ą:
 	
 ```csharp	
-            Bitmap _screenBitmap = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
+Bitmap _screenBitmap = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
 
-            using (Graphics g = Graphics.FromImage(_screenBitmap))
-            {
-                g.CopyFromScreen(Screen.PrimaryScreen.Bounds.X,
-                                 Screen.PrimaryScreen.Bounds.Y,
-                                 0, 0,
-                                 _screenBitmap.Size,
-                                 CopyPixelOperation.SourceCopy);
-            }     
+using (Graphics g = Graphics.FromImage(_screenBitmap))
+{
+	g.CopyFromScreen(Screen.PrimaryScreen.Bounds.X,
+					 Screen.PrimaryScreen.Bounds.Y,
+					 0, 0,
+					 _screenBitmap.Size,
+					 CopyPixelOperation.SourceCopy);
+}     
 ```	
 	
-3. Screenshot'ą reikia daryti iki formos pasirodymo (kad nebūtų pačios formos vaizdo), tam panaudokite formos įvykį *"Load"*.
-4. Paveiksliuką geriausia uždėti vos vos forma pasirodo, tam naudokite formos įvykį *"Shown"*
+3. Screenshot'ą reikia daryti iki formos pasirodymo (kad nebūtų pačios formos vaizdo), tam panaudokite formos įvykį **"Load"**.
+4. Paveiksliuką geriausia uždėti vos vos forma pasirodo, tam naudokite formos įvykį **"Shown"**.

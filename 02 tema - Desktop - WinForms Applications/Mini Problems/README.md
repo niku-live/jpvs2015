@@ -1,15 +1,15 @@
-#2 tema: darbalaukio (desktop'inës, Windows) aplikacijos
+ï»¿#2 tema: darbalaukio (desktop'inÄ—s, Windows) aplikacijos
 
-##Mini uşduotëlës
+##Mini uÅ¾duotÄ—lÄ—s
 
-###[1 uşd.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex1_MovingButton)
-- **Sàlyga**: Bëgiojantis mygtukas - sukurkite WindowsForms aplikacijà, kurioje bûtø vienas mygtukas, taèiau virğ jo uşvedus pele, mygtukas pabëgtø.
+###[1 uÅ¾d.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex1_MovingButton)
+- **SÄ…lyga**: BÄ—giojantis mygtukas - sukurkite WindowsForms aplikacijÄ…, kurioje bÅ«tÅ³ vienas mygtukas, taÄiau virÅ¡ jo uÅ¾vedus pele, mygtukas pabÄ—gtÅ³.
 
-###[2 uşd.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex2_StatusBar)
-- **Sàlyga**: Sukurkite WindowsForms aplikacijà, kurios lango apaèioje bûtø bûsenos juosta, o joje progreso indikatorius. Taip pat formoje bûtø mygtukas, kurá paspaudus, progreso indikatorius padidëtø vienetu.
+###[2 uÅ¾d.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex2_StatusBar)
+- **SÄ…lyga**: Sukurkite WindowsForms aplikacijÄ…, kurios lango apaÄioje bÅ«tÅ³ bÅ«senos juosta, o joje progreso indikatorius. Taip pat formoje bÅ«tÅ³ mygtukas, kurÄ¯ paspaudus, progreso indikatorius padidÄ—tÅ³ vienetu.
 
-###[3 uşd.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex3_DesktopCopy)
-- **Sàlyga**: Sukurkite programëlæ, kuris paleidus padaro ekrano vaizdo kopijà (screenshot'à) ir já uşsideda kaip savo vaizdà (kitaip tariant atrodo, jog matome desktop'à, taèiau kà bepaspaustume, niekas neveikia)
+###[3 uÅ¾d.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex3_DesktopCopy)
+- **SÄ…lyga**: Sukurkite programÄ—lÄ™, kuris paleidus padaro ekrano vaizdo kopijÄ… (screenshot'Ä…) ir jÄ¯ uÅ¾sideda kaip savo vaizdÄ… (kitaip tariant atrodo, jog matome desktop'Ä…, taÄiau kÄ… bepaspaustume, niekas neveikia)
 	
-###[4 uşd.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex4_ColoringEditor)
-- **Sàlyga**: Sukurkite programëlæ - tekstø redaktoriø, kuriame paşymëjus tekstà ir paspaudus değiná pelës klaviğà pasirodytø kontekstinis meniu su punktai "Nuspalvinti raudonai" ir "Nuspalvinti mëlynai", pasirinkus vienà iğ punktø tik paşymëtas tekstas bûtø nuspalvinamas pasirinkta spalva.
+###[4 uÅ¾d.](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems/Vol2Ex4_ColoringEditor)
+- **SÄ…lyga**: Sukurkite programÄ—lÄ™ - tekstÅ³ redaktoriÅ³, kuriame paÅ¾ymÄ—jus tekstÄ… ir paspaudus deÅ¡inÄ¯ pelÄ—s klaviÅ¡Ä… pasirodytÅ³ kontekstinis meniu su punktai "Nuspalvinti raudonai" ir "Nuspalvinti mÄ—lynai", pasirinkus vienÄ… iÅ¡ punktÅ³ tik paÅ¾ymÄ—tas tekstas bÅ«tÅ³ nuspalvinamas pasirinkta spalva.
