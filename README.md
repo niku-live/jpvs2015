@@ -6,6 +6,7 @@ JPVS 2015 medžiaga
 **Stovyklos tikslas** - supažindinti moksleivius su skirtingomis programavimo sritimis.
 
 Apžvelgtos sritys:
+
 1. Darbalaukio aplikacijos
 2. Žaidimai
 3. Internetinės aplikacijos
@@ -13,6 +14,7 @@ Apžvelgtos sritys:
 5. Mikrokontrolerių aplikacijos
 
 Visa medžiaga padalinda į katalogus pagal temas. Kiekvienai iš temų pateikiama ši informacija:
+
 1. Per paskaitą rodytų pavyzdžių išeitinis kodas (viskas sudėta kataloge **Examples**).
 2. Papildomos mini užduotys žinioms įsisavinti (viskas sudėta kataloge **Mini Problems**).
 3. Informacija apie susijusius video įrašus.
