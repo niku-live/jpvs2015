@@ -1,9 +1,9 @@
-﻿##2 tema: darbalaukio (desktop'inės, Windows) aplikacijos - Mini užduotėlės - 2 užd.
+﻿#2 tema: darbalaukio (desktop'inės, Windows) aplikacijos - Mini užduotėlės - 2 užd.
 
-#Sąlyga
+##Sąlyga
 
 Sukurkite WindowsForms aplikaciją, kurios lango apačioje būtų būsenos juosta, o joje progreso indikatorius. Taip pat formoje būtų mygtukas, kurį paspaudus, progreso indikatorius padidėtų vienetu.
 
-#Patarimai
+##Patarimai
 
 1. Naudokite komponentus *StatusStrip* ir *ToolStripProgressBar*.

@@ -1,10 +1,10 @@
-﻿##1 tema: Konsolinės aplikacijos - Mini užduotėlės - 4 užd.
+﻿#1 tema: Konsolinės aplikacijos - Mini užduotėlės - 4 užd.
 
-#Sąlyga
+##Sąlyga
 
 Sukurkite konsolinę programėlę, kuri lauktų paspaudžiamo klavišo ir paspaudus tam tikrą klavišą išvestų garsinį signalą
 
-#Patarimai
+##Patarimai
 
 1. Nuskaityti paspaudam klavišui naudokite komandą `Console.ReadKey(true);`
 2. Išvesti garsiniam signalui naudokite komandą `Console.Beep(frequency, duration)`

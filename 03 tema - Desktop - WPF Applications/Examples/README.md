@@ -1,4 +1,4 @@
-##03 tema - WPF aplikacijos
+ï»¿#03 tema - WPF aplikacijos
 
-#Ákeltø projektø paaiğkinimai
-- WpfDemoApp: pavyzdinë programëlë aptata 2015-06-22 dienà nagrinëjant WPF (Windows Presentation Foundation) aplikacijas.
+##PavyzdÅ¾iai (rodyti per paskaitÄ…)
+- **WpfDemoApp**: pavyzdinÄ— programÄ—lÄ— aptata 2015-06-22 dienÄ… nagrinÄ—jant WPF (Windows Presentation Foundation) aplikacijas.

@@ -1,10 +1,10 @@
-﻿##2 tema: darbalaukio (desktop'inės, Windows) aplikacijos - Mini užduotėlės - 3 užd.
+﻿#2 tema: darbalaukio (desktop'inės, Windows) aplikacijos - Mini užduotėlės - 3 užd.
 
-#Sąlyga
+##Sąlyga
 
 Sukurkite programėlę, kuris paleidus padaro ekrano vaizdo kopiją (screenshot'ą) ir jį užsideda kaip savo vaizdą (kitaip tariant atrodo, jog matome desktop'ą, tačiau ką bepaspaustume, niekas neveikia)
 
-#Patarimai
+##Patarimai
 
 1. Pasirinkite formos savybę **FormBorderStyle** į **"None"**.
 2. Galite pasinaudoti šia programinio kodo iškarpa, kad padaryti ekrano screenshot'ą:

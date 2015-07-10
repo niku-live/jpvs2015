@@ -1,6 +1,6 @@
 ﻿#01 tema - Konsolinės aplikacijos
 
-__Konsolinė aplikacija__, tai įprasta kompiuteriams skirta programa, kurios naudotojo sąsaja paremta dialogu principu valdomu įvedant tekstą klaviatūra.
+__Konsolinė aplikacija__- tai įprasta kompiuteriams skirta programa, kurios naudotojo sąsaja paremta dialogu principu valdomu įvedant tekstą klaviatūra.
 
 ##Trumpai
 Konsolinių aplikacijoms sukurti *Visual Studio 2013* aplinkoje pasirinkite *File -> New -> Project...* ir iš siūlomų projektų šablonų pasirinkite *Visual C# -> Windows Desktop -> Console Application*

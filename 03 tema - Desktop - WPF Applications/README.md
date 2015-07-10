@@ -1,17 +1,19 @@
-##03 tema - WPF aplikacijos
+ï»¿#03 tema - WPF aplikacijos
 
-WPF (Windows Presentation Foundation) aplikacijos - tai Windows operacinei sistemai skirtos programos paremtos langais ir daug kuo panağios á Windows Forms aplikacijas, taèiau viskà praplëèia papildomomis funkcijomis (animacija ir pan.)
+**WPF (Windows Presentation Foundation) aplikacijos** - tai *Windows* operacinei sistemai skirtos programos, paremtos langais ir daug kuo panaÅ¡ios Ä¯ *Windows Forms* aplikacijas, taÄiau viskÄ… praplÄ—Äia papildomomis funkcijomis (animacija ir pan.)
 
-#Trumpai
-WPF aplikacijoms sukurti Visual Studio 2013 aplinkoje pasirinkite File -> New -> Project... ir iğ siûlomø projektø ğablonø pasirinkite Visual C# -> Windows Desktop -> WPF Application
+##Trumpai
+WPF aplikacijoms sukurti *Visual Studio 2013* aplinkoje pasirinkite *File -> New -> Project...* ir iÅ¡ siÅ«lomÅ³ projektÅ³ Å¡ablonÅ³ pasirinkite *Visual C# -> Windows Desktop -> WPF Application*
 
-#Video árağai
-- 2015-06-22\2015-06-22_part3.avi: per paskaità buvo aptarti pagrindiniai WPF (Windows Presentation Foundation) aplikacijø kûrimo principai.
+##Video Ä¯raÅ¡ai
+- **2015-06-22\2015-06-22_part3.avi**: per paskaitÄ… buvo aptarti pagrindiniai WPF (Windows Presentation Foundation) aplikacijÅ³ kÅ«rimo principai.
 
-#Ákeltø projektø paaiğkinimai
-- WpfDemoApp: pavyzdinë programëlë aptata 2015-06-22 dienà nagrinëjant WPF (Windows Presentation Foundation) aplikacijas.
+##[PavyzdÅ¾iai](https://github.com/niku-live/jpvs2015/tree/master/03%20tema%20-%20Desktop%20-%20WPF%20Applications/Examples)
+- **WpfDemoApp**: pavyzdinÄ— programÄ—lÄ— aptata 2015-06-22 dienÄ… nagrinÄ—jant WPF (Windows Presentation Foundation) aplikacijas.
 
-#Iğğûkiai
-- Challenge2: Sukurtam dirbtiniam intelektui suteikti veidà - sukurti WindowsForms ar WPF aplikacijà, kuri taip pat leistø pasikalbëti kaip ir Challenge1 atveju, taèiau tai darytø WindowsForms ar WPF priemonëmis.
-- Challenge3: Sukurti programëlæ tiksliai atkartojanèià Notepad programos funkcijas.
+##[Mini uÅ¾duotys](https://github.com/niku-live/jpvs2015/tree/master/03%20tema%20-%20Desktop%20-%20WPF%20Applications/Mini%20Problems)
+
+##IÅ¡Å¡Å«kiai
+- **Challenge2**: Sukurtam dirbtiniam intelektui suteikti veidÄ… - sukurti WindowsForms ar WPF aplikacijÄ…, kuri taip pat leistÅ³ pasikalbÄ—ti kaip ir Challenge1 atveju, taÄiau tai darytÅ³ WindowsForms ar WPF priemonÄ—mis.
+- **Challenge3**: Sukurti programÄ—lÄ™ tiksliai atkartojanÄiÄ… Notepad programos funkcijas.
 
