@@ -1,6 +1,7 @@
 ﻿#5 tema - Internetinės aplikacijos - HTML ir CSS
 
 HTML (HyperText Markup Language) - tai kalba, skirta puslapio turiniu ir struktūrai aprašyti. Tai dokumento aprašymo, o ne programavimo kalba (kadangi šioje kalboje nėra sąlyginių sakinių). HTML naudojamas aprašyti, kokia bus puslapio struktūra ir iš kokių duomenų jis susidės.
+
 CSS (Cascading Style Sheet) - tai kalba, skirta puslapio stiliui aprašyti. Stilius apibrėžia, kaip atrodys puslapio elementai (spalvos, išdėstymas, dydis ir pan.). Pakeitus stiliaus failą, puslapio turinys nepakinta, tačiau puslapis atrodo kitaip. Galima naudoti daugiau nei vieną stilių (pvz. vienaip puslapis gali atrodyti spausdinant, kitaip atvaizduojant lange)
 
 ##Trumpai

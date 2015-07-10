@@ -12,11 +12,11 @@
 
 1. Atidarykite anksčiau sukurtą projektą.
 2. Papildykite HTML failą:
-  a) Anksčiau sukurtam DIV elementui suteikite savybę `id="body"`.
-  b) Anksčiau ansktesnio DIV elemento sukurkite naują DIV elementą `<div id="top">Viršus</div>`.
-  c) Sukurkite dar vieną elementą (tarp dviejų anksčiau sukurtų) `<div id="left"></div>`, viduje elemento sudėkite elementus **Menu1**, **Menu2**...  
+  1. Anksčiau sukurtam DIV elementui suteikite savybę `id="body"`.
+  2. Anksčiau ansktesnio DIV elemento sukurkite naują DIV elementą `<div id="top">Viršus</div>`.
+  3. Sukurkite dar vieną elementą (tarp dviejų anksčiau sukurtų) `<div id="left"></div>`, viduje elemento sudėkite elementus **Menu1**, **Menu2**...  
 3. Pakoreguokite CSS failą taip, kad gautumėte norimą vaizdą.  
-  a) Sukurkite stilių pavadinimu `#top` ir nurodykite `height: 10%;`, `width: 100%;`, `background-color: yellow;`.
-  b) Sukurkite stilių pavadinimu `#left` ir nurodykite `width: 100px;`, `background-color: gray;`, `float: left`.
-  c) Sukurkite stilių pavadinimu `#body` ir nurodykite `margin-left:20px`, `float: left`.
+  1. Sukurkite stilių pavadinimu `#top` ir nurodykite `height: 10%;`, `width: 100%;`, `background-color: yellow;`.
+  2. Sukurkite stilių pavadinimu `#left` ir nurodykite `width: 100px;`, `background-color: gray;`, `float: left`.
+  3. Sukurkite stilių pavadinimu `#body` ir nurodykite `margin-left:20px`, `float: left`.
 6. Paleiskite puslapį pasirinkę *Debug -> Start Debugging*.
