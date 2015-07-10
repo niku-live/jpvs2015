@@ -15,7 +15,7 @@
 1. Atidarykite anksčiau sukurtą projektą.
 2. HTML faile pridėkite nuorodą į jQuery biblioteką - tiesiog prirašykite `<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>`
 3. Papildykite *Javascript* failą (pakeiskite funkciją **hideShow**):
-``javascript
+```javascript
 var isHidden = false;
 
 function hideShow() {
