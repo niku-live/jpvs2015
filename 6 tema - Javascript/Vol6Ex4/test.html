@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ketvirtas puslapis</title>
+    <link rel="stylesheet" type="text/css" href="test.css" />
+    <link rel="stylesheet" type="text/css" href="test_print.css" media="print" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="test.js"></script>
+</head>
+<body>
+    
+    <div id="top">
+        Viršus
+    </div>
+    <div id="left">
+        <ul>
+            <li>Menu 1</li>
+            <li>Menu 2</li>
+            <li>Menu 3</li>
+            <li>Menu 4</li>
+        </ul>
+    </div>
+
+    <div id="body">
+        <hr />
+        <label>Teksto laukelis: </label>
+        <input id="Text1" type="text" />
+        <hr />
+        <label>Teksto laukelis 2:</label>
+        <input id="Text2" type="text" />
+        <hr />
+        <input id="Button1" class = "melynas_mygtukas" type="button" value="Mygtukas 1" onclick="click1(1)" />
+        <input id="Button2" class = "melynas_mygtukas" type ="button" value="Mygtukas 2" onclick="click1(2)" />
+        <input id="Button3" type ="button" value="Mygtukas 3" onclick="hideShow()" />
+        <hr />
+    </div>
+
+</body>
+</html>

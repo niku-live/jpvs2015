@@ -1,0 +1,4 @@
+﻿function paspaude()
+{
+    alert("paspausta");
+}
