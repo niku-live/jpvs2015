@@ -1,24 +1,28 @@
-## JPVS 2015 (Jaunųjų programuotojų vasaros stovykla)
+# JPVS 2015 (Jaunųjų programuotojų vasaros stovykla)
 
-Examples of JPVS 2015 event
+JPVS 2015 medžiaga
 
-#Video įrašai
-Kur sudėti video įrašai informacija moksleiviams pateikiama atskirai elektroniniu paštu.
+##Trumpai
+**Stovyklos tikslas** - supažindinti moksleivius su skirtingomis programavimo sritimis.
 
-Failų aprašymai:
-- 2015-06-22\2015-06-22_part1.avi: per paskaitą buvo aptarti konsolinės aplikacijos kūrimo principai, C# programavimo kalbos pradmenys ir pan.
-- 2015-06-22\2015-06-22_part2.avi: per paskaitą buvo aptarti WindowsForms aplikacijų kūrimo principai, parodyta, kaip sukurti paprastą tekstų redaktorių.
-- 2015-06-22\2015-06-22_part3.avi: per paskaitą buvo aptarti pagrindiniai WPF (Windows Presentation Foundation) aplikacijų kūrimo principai.
+Apžvelgtos sritys:
+1. Darbalaukio aplikacijos
+2. Žaidimai
+3. Internetinės aplikacijos
+4. Mobiliosios aplikacijos
+5. Mikrokontrolerių aplikacijos
 
+Visa medžiaga padalinda į katalogus pagal temas. Kiekvienai iš temų pateikiama ši informacija:
+1. Per paskaitą rodytų pavyzdžių išeitinis kodas (viskas sudėta kataloge **Examples**).
+2. Papildomos mini užduotys žinioms įsisavinti (viskas sudėta kataloge **Mini Problems**).
+3. Informacija apie susijusius video įrašus.
+4. Su tema susijusių iššūkių sąrašas.
+5. Kita susijusi informacija.
 
-#Įkeltų projektų paaiškinimai
-- Challenge1: pavyzdinė programėlė Challenge1 iššūkiui padengti.
-- SuperAINamedAiri: pavyzdinė programėlė Challenge1 iššūkiui padengti (versija, kuri buvo aptarta 2015-06-20 dieną).
-- SuperAINamedAiri2: pavyzdinė programėlė Challenge1 iššūkiui padengti (versija, kuri buvo aptarta 2015-06-22 dieną).
-- WinForms1: pavyzdinė programėlė aptarta 2015-06-22 dieną nagrinėjant WindowsForms aplikacijas.
-- WpfDemoApp: pavyzdinė programėlė aptata 2015-06-22 dieną nagrinėjant WPF (Windows Presentation Foundation) aplikacijas.
+##[Video medžiaga](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md)
 
-#Iššūkiai
-- Challenge1: Sukurti mini dirbtinį intelektą - konsolinę aplikaciją, su kuria būtų galima pasikalbėti (pvz. parašius tekstą "Labas", programėlė taip pat atsakytų ką nors panašaus, pvz. "O labas ir tau"?). Papildoma galima pridėti, kad kai programėlė liūdna, spausdinamas raudonas tekstas, kai linksma - žalias ir pan.
-- Challenge2: Sukurtam dirbtiniam intelektui suteikti veidą - sukurti WindowsForms ar WPF aplikaciją, kuri taip pat leistų pasikalbėti kaip ir Challenge1 atveju, tačiau tai darytų WindowsForms ar WPF priemonėmis.
-- Challenge3: Sukurti programėlę tiksliai atkartojančią Notepad programos funkcijas.
+##[Mini užduotys](https://github.com/niku-live/jpvs2015/blob/master/MINI.md)
+
+##[Pavyzdžiai](https://github.com/niku-live/jpvs2015/blob/master/EXAMPLES.md)
+
+##[Iššūkiai](https://github.com/niku-live/jpvs2015/blob/master/CHALLANGES.md)
