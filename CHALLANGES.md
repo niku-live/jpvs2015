@@ -11,3 +11,11 @@ Sukurtam dirbtiniam intelektui suteikti veidą - sukurti WindowsForms ar WPF apl
 ##Challange3
 
 Sukurti programėlę tiksliai atkartojančią Notepad programos funkcijas.
+
+##Challange4
+
+Sukurti 3D žaidimą ur pritaikyti jį Occulus Rift.
+
+##Challange5
+
+Savo sukurtą dirbtinį intelektą perkelti į internetinį puslapį - sukurti internetinį puslapį, kuriame būtų galima pasikalbėti su savo dirbtiniu intelektu.

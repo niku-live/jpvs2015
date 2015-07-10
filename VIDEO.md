@@ -14,5 +14,15 @@ Informacija, kur sudėti video įrašai, moksleiviams pateikiama atskirai elektr
 
 ##Video 3
 
-- **Failo pavadinimas**: 2015-06-22\2015-06-22_part3.avi: 
+- **Failo pavadinimas**: 2015-06-22\2015-06-22_part3.avi
 - **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai WPF (Windows Presentation Foundation) aplikacijų kūrimo principai.
+
+##Video 5
+
+- **Failo pavadinimas**: 2015-07-04\2015-07-04.avi
+- **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai internetinių aplikacijų kūrimo principai. Aptarta, kas yra HTML, CSS, Javascript, parodytos ASP.NET ir PHP minimalios aplikacijos.
+
+##Video 6
+
+- **Failo pavadinimas**: 2015-07-10\2015-07-10.avi
+- **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai mobiliųjų aplikacijų kūrimo principai. Parodyta kaip sukurti minimalias Android ir Windows Phone aplikacijas.
