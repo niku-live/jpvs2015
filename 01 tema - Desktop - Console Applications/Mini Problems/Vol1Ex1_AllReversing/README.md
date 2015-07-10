@@ -6,4 +6,4 @@ Sukurkite konsolinę programėlę, kuri viską, ką įveda vartotojas, išveda a
 
 #Patarimai
 
-Naudokite string klasės standartinę komandą Reverse(), pvz.: string s = "Labas"; s = s.Reverse();
+1. Naudokite string klasės standartinę komandą `Reverse()`, pvz.: `string s = "Labas"; s = new String(text.Reverse().ToArray());`

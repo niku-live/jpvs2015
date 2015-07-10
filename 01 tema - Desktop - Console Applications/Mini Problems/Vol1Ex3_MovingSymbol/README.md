@@ -6,5 +6,5 @@ Sukurkite konsolinę programėlę, kuriai pasileidus tiesiog išvedamas vienas s
 
 #Patarimai
 
-1. Nuskaityti paspaudam klavišui naudokite komandą Console.ReadKey(true); 
-2. Pakeisti kursoriaus poziciją naudokite komandą Console.SetCursorPosition(x, y)
+1. Nuskaityti paspaudam klavišui naudokite komandą `Console.ReadKey(true);` 
+2. Pakeisti kursoriaus poziciją naudokite komandą `Console.SetCursorPosition(x, y)`

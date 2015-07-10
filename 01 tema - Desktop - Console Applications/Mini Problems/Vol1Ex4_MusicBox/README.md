@@ -6,5 +6,5 @@ Sukurkite konsolinę programėlę, kuri lauktų paspaudžiamo klavišo ir paspau
 
 #Patarimai
 
-1. Nuskaityti paspaudam klavišui naudokite komandą Console.ReadKey(true); 
-2. Išvesti garsiniam signalui naudokite komandą Console.Beep(frequency, duration)
+1. Nuskaityti paspaudam klavišui naudokite komandą `Console.ReadKey(true);`
+2. Išvesti garsiniam signalui naudokite komandą `Console.Beep(frequency, duration)`

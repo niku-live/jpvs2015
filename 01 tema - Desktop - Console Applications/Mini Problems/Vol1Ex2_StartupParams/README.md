@@ -6,4 +6,4 @@ Sukurkite konsolinę programėlę, kuri išspausdintų į ekraną viską, kas pa
 
 #Patarimai
 
-Naudokite masyvą "args", kuris yra standartinio metodo Main vienintelis parametras.
+1. Naudokite masyvą "args", kuris yra standartinio metodo *Main* vienintelis parametras.
