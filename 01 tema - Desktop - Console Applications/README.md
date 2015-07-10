@@ -1,18 +1,18 @@
-##01 tema - Konsolinës aplikacijos
+ï»¿##01 tema - KonsolinÄ—s aplikacijos
 
-Konsolinë aplikacija, tai áprasta kompiuteriams skirta programa, kurios naudotojo sàsaja paremta dialogu principu valdomu ávedant tekstà klaviatûra.
+KonsolinÄ— aplikacija, tai Ä¯prasta kompiuteriams skirta programa, kurios naudotojo sÄ…saja paremta dialogu principu valdomu Ä¯vedant tekstÄ… klaviatÅ«ra.
 
 #Trumpai
-Konsoliniø aplikacijoms sukurti Visual Studio 2013 aplinkoje pasirinkite File -> New -> Project... ir iğ siûlomø projektø ğablonø pasirinkite Visual C# -> Windows Desktop -> Console Application
+KonsoliniÅ³ aplikacijoms sukurti Visual Studio 2013 aplinkoje pasirinkite File -> New -> Project... ir iÅ¡ siÅ«lomÅ³ projektÅ³ Å¡ablonÅ³ pasirinkite Visual C# -> Windows Desktop -> Console Application
 
-#Video árağai
-- 2015-06-22\2015-06-22_part1.avi: per paskaità buvo aptarti konsolinës aplikacijos kûrimo principai, C# programavimo kalbos pradmenys ir pan.
+#Video Ä¯raÅ¡ai
+- 2015-06-22\2015-06-22_part1.avi: per paskaitÄ… buvo aptarti konsolinÄ—s aplikacijos kÅ«rimo principai, C# programavimo kalbos pradmenys ir pan.
 
-#Ákeltø projektø paaiğkinimai
-- Challenge1: pavyzdinë programëlë Challenge1 iğğûkiui padengti.
-- SuperAINamedAiri: pavyzdinë programëlë Challenge1 iğğûkiui padengti (versija, kuri buvo aptarta 2015-06-20 dienà).
-- SuperAINamedAiri2: pavyzdinë programëlë Challenge1 iğğûkiui padengti (versija, kuri buvo aptarta 2015-06-22 dienà).
-- uzd1_klases: pavyzdinë programëlë su klasëmis (pristatyta Artûro 2015-06-26 dienà)
+#Ä®keltÅ³ projektÅ³ paaiÅ¡kinimai
+- Challenge1: pavyzdinÄ— programÄ—lÄ— Challenge1 iÅ¡Å¡Å«kiui padengti.
+- SuperAINamedAiri: pavyzdinÄ— programÄ—lÄ— Challenge1 iÅ¡Å¡Å«kiui padengti (versija, kuri buvo aptarta 2015-06-20 dienÄ…).
+- SuperAINamedAiri2: pavyzdinÄ— programÄ—lÄ— Challenge1 iÅ¡Å¡Å«kiui padengti (versija, kuri buvo aptarta 2015-06-22 dienÄ…).
+- uzd1_klases: pavyzdinÄ— programÄ—lÄ— su klasÄ—mis (pristatyta ArtÅ«ro 2015-06-26 dienÄ…)
 
-#Iğğûkiai
-- Challenge1: Sukurti mini dirbtiná intelektà - konsolinæ aplikacijà, su kuria bûtø galima pasikalbëti (pvz. parağius tekstà "Labas", programëlë taip pat atsakytø kà nors panağaus, pvz. "O labas ir tau"?). Papildoma galima pridëti, kad kai programëlë liûdna, spausdinamas raudonas tekstas, kai linksma - şalias ir pan.
+#IÅ¡Å¡Å«kiai
+- Challenge1: Sukurti mini dirbtinÄ¯ intelektÄ… - konsolinÄ™ aplikacijÄ…, su kuria bÅ«tÅ³ galima pasikalbÄ—ti (pvz. paraÅ¡ius tekstÄ… "Labas", programÄ—lÄ— taip pat atsakytÅ³ kÄ… nors panaÅ¡aus, pvz. "O labas ir tau"?). Papildoma galima pridÄ—ti, kad kai programÄ—lÄ— liÅ«dna, spausdinamas raudonas tekstas, kai linksma - Å¾alias ir pan.

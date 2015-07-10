@@ -1,7 +1,7 @@
-##01 tema - Konsolinës aplikacijos
+ï»¿##01 tema - KonsolinÄ—s aplikacijos
 
-#Ákeltø projektø paaiğkinimai
-- Challenge1: pavyzdinë programëlë Challenge1 iğğûkiui padengti.
-- SuperAINamedAiri: pavyzdinë programëlë Challenge1 iğğûkiui padengti (versija, kuri buvo aptarta 2015-06-20 dienà).
-- SuperAINamedAiri2: pavyzdinë programëlë Challenge1 iğğûkiui padengti (versija, kuri buvo aptarta 2015-06-22 dienà).
-- uzd1_klases: pavyzdinë programëlë su klasëmis (pristatyta Artûro 2015-06-26 dienà)
+#Ä®keltÅ³ projektÅ³ paaiÅ¡kinimai
+- Challenge1: pavyzdinÄ— programÄ—lÄ— Challenge1 iÅ¡Å¡Å«kiui padengti.
+- SuperAINamedAiri: pavyzdinÄ— programÄ—lÄ— Challenge1 iÅ¡Å¡Å«kiui padengti (versija, kuri buvo aptarta 2015-06-20 dienÄ…).
+- SuperAINamedAiri2: pavyzdinÄ— programÄ—lÄ— Challenge1 iÅ¡Å¡Å«kiui padengti (versija, kuri buvo aptarta 2015-06-22 dienÄ…).
+- uzd1_klases: pavyzdinÄ— programÄ—lÄ— su klasÄ—mis (pristatyta ArtÅ«ro 2015-06-26 dienÄ…)
