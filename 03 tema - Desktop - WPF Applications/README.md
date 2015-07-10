@@ -9,7 +9,6 @@ WPF aplikacijoms sukurti *Visual Studio 2013* aplinkoje pasirinkite *File -> New
 - **2015-06-22\2015-06-22_part3.avi**: per paskaitą buvo aptarti pagrindiniai WPF (Windows Presentation Foundation) aplikacijų kūrimo principai.
 
 ##[Pavyzdžiai](https://github.com/niku-live/jpvs2015/tree/master/03%20tema%20-%20Desktop%20-%20WPF%20Applications/Examples)
-- **WpfDemoApp**: pavyzdinė programėlė aptata 2015-06-22 dieną nagrinėjant WPF (Windows Presentation Foundation) aplikacijas.
 
 ##[Mini užduotys](https://github.com/niku-live/jpvs2015/tree/master/03%20tema%20-%20Desktop%20-%20WPF%20Applications/Mini%20Problems)
 

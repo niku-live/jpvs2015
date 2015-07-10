@@ -8,6 +8,6 @@ Sukurkite WPF programėlę, kuri susidėtų iš vieno mygtuko ir paveiksliuko el
 
 1. Programėlei sukurti reikia apibrėžti paveiksliuko animaciją. Tam geriausia naudoti įrankį *Blend for Visual Studio 2013*.
 2. Yra keli būdai paleisti animaciją:
-  a. iš programinio kodo iškviesti `storyboard.Begin()`, kur **storyboard** - animacijos objektas
-  b. *Blend* redaktoriuje uždėti trigerį, kad paspaudus mygtuką sugrotų animacija.
+  1. Iš programinio kodo iškviesti `storyboard.Begin()`, kur **storyboard** - animacijos objektas
+  2. *Blend* redaktoriuje uždėti trigerį, kad paspaudus mygtuką sugrotų animacija.
 	
