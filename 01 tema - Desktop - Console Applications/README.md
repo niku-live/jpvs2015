@@ -13,5 +13,5 @@ Konsolinių aplikacijoms sukurti *Visual Studio 2013* aplinkoje pasirinkite *Fil
 ##[Mini užduotys](https://github.com/niku-live/jpvs2015/tree/master/01%20tema%20-%20Desktop%20-%20Console%20Applications/Mini%20Problems)
 
 ##Iššūkiai
-- [Challenge1](https://github.com/niku-live/jpvs2015/blob/master/CHALLANGES.md#challange-1)
+- [Challenge1](https://github.com/niku-live/jpvs2015/blob/master/CHALLANGES.md#challange1)
 

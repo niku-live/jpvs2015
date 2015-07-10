@@ -13,6 +13,6 @@ WPF aplikacijoms sukurti *Visual Studio 2013* aplinkoje pasirinkite *File -> New
 ##[Mini užduotys](https://github.com/niku-live/jpvs2015/tree/master/03%20tema%20-%20Desktop%20-%20WPF%20Applications/Mini%20Problems)
 
 ##Iššūkiai
-- [Challenge2](https://github.com/niku-live/jpvs2015/blob/master/CHALLANGES.md#challange-2)
-- [Challenge3](https://github.com/niku-live/jpvs2015/blob/master/CHALLANGES.md#challange-3)
+- [Challenge2](https://github.com/niku-live/jpvs2015/blob/master/CHALLANGES.md#challange2)
+- [Challenge3](https://github.com/niku-live/jpvs2015/blob/master/CHALLANGES.md#challange3)
 
