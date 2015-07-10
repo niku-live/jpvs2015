@@ -1,4 +1,4 @@
-﻿##1 tema: Konsolinės aplikacijos
+﻿#1 tema: Konsolinės aplikacijos
 
 ##Mini užduotėlės
 

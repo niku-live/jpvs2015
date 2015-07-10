@@ -1,17 +1,18 @@
-##02 tema - Windows Forms aplikacijos
+ï»¿#02 tema - Windows Forms aplikacijos
 
-Windows Forms aplikacijos - tai klasikinës Windows operacinei sistemai skirtos programos paremtos langais.
+**Windows Forms aplikacijos** - tai klasikinÄ—s *Windows* operacinei sistemai skirtos programos, paremtos langais.
 
-#Trumpai
-Windows Forms aplikacijoms sukurti Visual Studio 2013 aplinkoje pasirinkite File -> New -> Project... ir iğ siûlomø projektø ğablonø pasirinkite Visual C# -> Windows Desktop -> Windows Forms Application
+##Trumpai
+*Windows Forms* aplikacijoms sukurti *Visual Studio 2013* aplinkoje pasirinkite *File -> New -> Project...* ir iÅ¡ siÅ«lomÅ³ projektÅ³ Å¡ablonÅ³ pasirinkite *Visual C# -> Windows Desktop -> Windows Forms Application*
 
-#Video árağai
-- 2015-06-22\2015-06-22_part2.avi: per paskaità buvo aptarti WindowsForms aplikacijø kûrimo principai, parodyta, kaip sukurti paprastà tekstø redaktoriø.
+##Video Ä¯raÅ¡ai
+- **2015-06-22\2015-06-22_part2.avi**: per paskaitÄ… buvo aptarti *Windows Forms* aplikacijÅ³ kÅ«rimo principai, parodyta, kaip sukurti paprastÄ… tekstÅ³ redaktoriÅ³.
 
-#Ákeltø projektø paaiğkinimai
-- WinForms1 - pavyzdinë programële WinForms programëlë, demonstruojanti bazines funkcijas (versija, kuri buvo aptarta 2015-06-22 dienà).
+##[PavyzdÅ¾iai](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Examples)
 
-#Iğğûkiai
-- Challenge2: Sukurtam dirbtiniam intelektui suteikti veidà - sukurti WindowsForms ar WPF aplikacijà, kuri taip pat leistø pasikalbëti kaip ir Challenge1 atveju, taèiau tai darytø WindowsForms ar WPF priemonëmis.
-- Challenge3: Sukurti programëlæ tiksliai atkartojanèià Notepad programos funkcijas.
+##[Mini uÅ¾duotys](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications/Mini%20Problems)
+
+##IÅ¡Å¡Å«kiai
+- **Challenge2**: Sukurtam dirbtiniam intelektui suteikti veidÄ… - sukurti WindowsForms ar WPF aplikacijÄ…, kuri taip pat leistÅ³ pasikalbÄ—ti kaip ir Challenge1 atveju, taÄiau tai darytÅ³ WindowsForms ar WPF priemonÄ—mis.
+- **Challenge3**: Sukurti programÄ—lÄ™ tiksliai atkartojanÄiÄ… Notepad programos funkcijas.
 

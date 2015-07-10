@@ -1,4 +1,4 @@
-##02 tema - Windows Forms aplikacijos
+ï»¿#02 tema - Windows Forms aplikacijos
 
-#Ákeltø projektø paaiğkinimai
-- WinForms1 - pavyzdinë programële WinForms programëlë, demonstruojanti bazines funkcijas (versija, kuri buvo aptarta 2015-06-22 dienà).
+##PavyzdÅ¾iai (rodyti per paskaitÄ…)
+- **WinForms1** - pavyzdinÄ— WinForms programÄ—lÄ—, demonstruojanti bazines funkcijas (versija, kuri buvo aptarta 2015-06-22 dienÄ…).
