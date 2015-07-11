@@ -36,10 +36,10 @@
   1. **DataSourceID** - šioje savybėje nurodomas duomenų šaltinis. Pasirinkite šaltinį, sukurtą 4 punktu (tikriausiai pavadinimas bus *XmlDataSource1*)
   2. Pakoreguokite savybes aprašančias išvaizdą.
 7. Puslapyje pakeiskite funkcija **Form_Load** taip:
-	```csharp
+```csharp
 	protected void Page_Load(object sender, EventArgs e)
 	{
 		XmlDataSource1.XPath = String.Format("Data/User[{0}]", this.Request["id"]);
 	}
-	```
+```
 8. Paleiskite puslapį pasirinkę *Debug -> Start Debugging*.
