@@ -7,10 +7,10 @@ JPVS 2015 medžiaga
 
 Apžvelgtos sritys:
 
-1. Darbalaukio aplikacijos
-2. Žaidimai
-3. Internetinės aplikacijos
-4. Mobiliosios aplikacijos
+1. Darbalaukio aplikacijos ([konsolinės](https://github.com/niku-live/jpvs2015/tree/master/01%20tema%20-%20Desktop%20-%20Console%20Applications), [Windows Forms](https://github.com/niku-live/jpvs2015/tree/master/02%20tema%20-%20Desktop%20-%20WinForms%20Applications), [WPF](https://github.com/niku-live/jpvs2015/tree/master/03%20tema%20-%20Desktop%20-%20WPF%20Applications) )
+2. Žaidimai ([Unity](https://github.com/niku-live/jpvs2015/tree/master/04%20tema%20-%20Games) )
+3. Internetinės aplikacijos ([HTML ir CSS](https://github.com/niku-live/jpvs2015/tree/master/05%20tema%20-%20Web%20-%20HTML%20ir%20CSS), [Javascript](https://github.com/niku-live/jpvs2015/tree/master/06%20tema%20-%20Web%20-%20Javascript), [ASP.NET](https://github.com/niku-live/jpvs2015/tree/master/07%20tema%20-%20Web%20-%20ASP.NET), [PHP](https://github.com/niku-live/jpvs2015/tree/master/08%20tema%20-%20Web%20-%20PHP%20Applications) )
+4. Mobiliosios aplikacijos ([Android](https://github.com/niku-live/jpvs2015/tree/master/09%20tema%20-%20Mobile%20-%20Android%20Applications), [Windows Phone](https://github.com/niku-live/jpvs2015/tree/master/10%20tema%20-%20Mobile%20-%20Windows%20Phone%20Applications) )
 5. Mikrokontrolerių aplikacijos
 
 Visa medžiaga padalinda į katalogus pagal temas. Kiekvienai iš temų pateikiama ši informacija:
