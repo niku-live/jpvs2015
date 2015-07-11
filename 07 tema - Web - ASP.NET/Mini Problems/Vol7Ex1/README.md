@@ -24,12 +24,12 @@ Sukurkite minimalų ASP.NET puslapį, kuriame būtų teksto įvedimo laukelis, v
   3. Pakeiskite mygtuko savybę **Text** į **Išvalyk**.
   4. Pakeiskite antrojo **Label** elemento savybę **Text** į **"Prieš tai buvo įvesta:"**.
   5. Pakeiskite trečiojo **Label** elemento savybę **"Text"** į **""**.
-4. Mygtukui padasrykite, kad jį paspaudus būtų vykdoma tokia C# funkcija:
-```csharp
-protected void Button1_Click(object sender, EventArgs e)
-{
-	Label3.Text = TextBox1.Text;
-	TextBox1.Text = "";
-}
-```
+4. Mygtukui padarykite, kad jį paspaudus būtų vykdoma tokia C# funkcija:
+	```csharp
+	protected void Button1_Click(object sender, EventArgs e)
+	{
+		Label3.Text = TextBox1.Text;
+		TextBox1.Text = "";
+	}
+	```
 5. Paleiskite puslapį pasirinkę *Debug -> Start Debugging*.

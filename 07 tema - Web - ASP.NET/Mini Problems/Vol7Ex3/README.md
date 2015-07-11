@@ -11,7 +11,7 @@
 </Data>
 ```
 Galutinis puslapio vaizdas galėtų būti toks:
-![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol5Ex3/example3.png)
+![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex3/example3.png)
 
 ##Patarimai
 
@@ -24,16 +24,16 @@ Galutinis puslapio vaizdas galėtų būti toks:
 1. Atidarykite anksčiau sukurtą projektą.
 2. Iš meniu pasirinkite *Project -> Add New Item...*, pasirinkite *"XML File"* ir spauskite Add.
 3. Užpildykite naujai sukurto failo turinį taip:
-```xml
-<?xml version="1.0" encoding="utf-8" ?>
-<Data>
-  <User Name="Vardas" LastName="Vardukas" Age="21" UserType="Admin"/>
-  <User Name="Vardas2" LastName="Vardukas2" Age="25" UserType="User"/>
-  <User Name="Vardas3" LastName="Vardukas3" Age="27" UserType="User"/>
-  <User Name="Vardas4" LastName="Vardukas4" Age="22" UserType="User"/>
-  <User Name="Vardas5" LastName="Vardukas5" Age="20" UserType="User"/>
-</Data>
-```
+	```xml
+	<?xml version="1.0" encoding="utf-8" ?>
+	<Data>
+	  <User Name="Vardas" LastName="Vardukas" Age="21" UserType="Admin"/>
+	  <User Name="Vardas2" LastName="Vardukas2" Age="25" UserType="User"/>
+	  <User Name="Vardas3" LastName="Vardukas3" Age="27" UserType="User"/>
+	  <User Name="Vardas4" LastName="Vardukas4" Age="22" UserType="User"/>
+	  <User Name="Vardas5" LastName="Vardukas5" Age="20" UserType="User"/>
+	</Data>
+	```
 4. Į puslapį įtraukite komponentą **XmlDataSource** (tiesiog pasirinkite iš paletės), komponentui užpildykite savybes taip:
   1. **DataFile** - šioje savybėje reikia įrašyti sukurto failo pavadinimą.
   2. **XPath** * - ši savybė nurodo, kuriuos duomenis norime atvaizduoti iš failo. Nurodykite reikšmė **"Data/User"**.

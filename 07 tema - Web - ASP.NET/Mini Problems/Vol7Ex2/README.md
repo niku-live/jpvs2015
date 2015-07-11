@@ -11,32 +11,32 @@
 
 ##Eiga
 
-1. Atidarykite anskčiau sukurtą projektą.
+1. Atidarykite anksčiau sukurtą projektą.
 2. Pakoreguokite **Button1_Click** funkciją taip:
-```csharp
-protected void Button1_Click(object sender, EventArgs e)
-{
-	string text = TextBox1.Text;
-	Label3.Text = text;
-	TextBox1.Text = "";
-	System.IO.FileInfo finfo = new System.IO.FileInfo("C:\\Devel\\test.txt");
-	System.IO.StreamWriter writer = finfo.CreateText();
-	writer.WriteLine(text);
-	writer.Close();
-}
-```
-3. Pakoreguokite **Page_Load** funkciją taip:
-```csharp
-protected void Page_Load(object sender, EventArgs e)
-{
-	System.IO.FileInfo finfo = new System.IO.FileInfo("C:\\Devel\\test.txt");
-	if (finfo.Exists)
+	```csharp
+	protected void Button1_Click(object sender, EventArgs e)
 	{
-		System.IO.StreamReader reader = finfo.OpenText();
-		string text = reader.ReadLine();
-		reader.Close();
-		TextBox1.Text = text;
+		string text = TextBox1.Text;
+		Label3.Text = text;
+		TextBox1.Text = "";
+		System.IO.FileInfo finfo = new System.IO.FileInfo("C:\\Devel\\test.txt");
+		System.IO.StreamWriter writer = finfo.CreateText();
+		writer.WriteLine(text);
+		writer.Close();
 	}
-}
-```
+	```
+3. Pakoreguokite **Page_Load** funkciją taip:
+	```csharp
+	protected void Page_Load(object sender, EventArgs e)
+	{
+		System.IO.FileInfo finfo = new System.IO.FileInfo("C:\\Devel\\test.txt");
+		if (finfo.Exists)
+		{
+			System.IO.StreamReader reader = finfo.OpenText();
+			string text = reader.ReadLine();
+			reader.Close();
+			TextBox1.Text = text;
+		}
+	}
+	```
 4. Paleiskite puslapį pasirinkę *Debug -> Start Debugging*.
