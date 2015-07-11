@@ -18,10 +18,10 @@
 </Data>
 ```
 Galutinis puslapio vaizdas galėtų būti toks:
-![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol5Ex3/example3.png)
+![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex3/example3.png)
 
 ###[4 užd.](https://github.com/niku-live/jpvs2015/tree/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex4)
 - **Sąlyga**: 3 užduotimi sukurtą puslapį pakoreguokite taip, kad kiekvienos eilutės pirmame stulpelyje būtų nuoroda "Select", kurią paspaudus atsidarytų naujas puslapis, kuriame būtų atvaizduojama tik pasirinktos eilutės informacija.
-![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol5Ex3/example4_1.png)
-![Galimas puslapio vaizdas2](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol5Ex3/example4_2.png)
+![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex4/example4_1.png)
+![Galimas puslapio vaizdas2](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex4/example4_2.png)
 

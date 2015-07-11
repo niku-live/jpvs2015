@@ -3,8 +3,8 @@
 ##Sąlyga
 
 3 užduotimi sukurtą puslapį pakoreguokite taip, kad kiekvienos eilutės pirmame stulpelyje būtų nuoroda "Select", kurią paspaudus atsidarytų naujas puslapis, kuriame būtų atvaizduojama tik pasirinktos eilutės informacija.
-![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol5Ex3/example4_1.png)
-![Galimas puslapio vaizdas2](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol5Ex3/example4_2.png)
+![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex4/example4_1.png)
+![Galimas puslapio vaizdas2](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex4/example4_2.png)
 
 ##Patarimai
 
@@ -20,12 +20,12 @@
 1. Atidarykite anksčiau sukurtą projektą.
 2. Pakoreguokite GridView elementą, kad jame būtų mygtukas "Select" (Pažymėkite GridView komponentą ir pasirinkite **Enable Selection**).
 3. Pasirinkite GridView įvykį **SelectedIndexChanged** ir priskirkite jam tokią funkciją:
-```csharp
-protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
-{            
-	Response.Redirect(String.Format("details.aspx?id={0}", GridView1.SelectedIndex + 1));
-}
-```
+	```csharp
+	protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+	{            
+		Response.Redirect(String.Format("details.aspx?id={0}", GridView1.SelectedIndex + 1));
+	}
+	```
 4. Pridėkite naują *Web Form* failą (*Project -> Add New Item... -> Web Form*). Pavadinkite naująjį failą "details.aspx".
 5. Į puslapį įtraukite komponentą **XmlDataSource** (tiesiog pasirinkite iš paletės), komponentui užpildykite savybes taip:
   1. **DataFile** - šioje savybėje reikia įrašyti sukurto failo pavadinimą.
@@ -34,10 +34,10 @@ protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
   1. **DataSourceID** - šioje savybėje nurodomas duomenų šaltinis. Pasirinkite šaltinį, sukurtą 4 punktu (tikriausiai pavadinimas bus *XmlDataSource1*)
   2. Pakoreguokite savybes aprašančias išvaizdą.
 7. Puslapyje pakeiskite funkcija **Form_Load** taip:
-```csharp
-protected void Page_Load(object sender, EventArgs e)
-{
-	XmlDataSource1.XPath = String.Format("Data/User[{0}]", this.Request["id"]);
-}
-```
+	```csharp
+	protected void Page_Load(object sender, EventArgs e)
+	{
+		XmlDataSource1.XPath = String.Format("Data/User[{0}]", this.Request["id"]);
+	}
+	```
 8. Paleiskite puslapį pasirinkę *Debug -> Start Debugging*.
