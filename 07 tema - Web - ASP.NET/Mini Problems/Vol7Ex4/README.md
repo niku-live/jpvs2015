@@ -20,12 +20,14 @@
 1. Atidarykite anksčiau sukurtą projektą.
 2. Pakoreguokite GridView elementą, kad jame būtų mygtukas "Select" (Pažymėkite GridView komponentą ir pasirinkite **Enable Selection**).
 3. Pasirinkite GridView įvykį **SelectedIndexChanged** ir priskirkite jam tokią funkciją:
-	```csharp
+
+```csharp
 	protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
 	{            
 		Response.Redirect(String.Format("details.aspx?id={0}", GridView1.SelectedIndex + 1));
 	}
-	```
+```
+
 4. Pridėkite naują *Web Form* failą (*Project -> Add New Item... -> Web Form*). Pavadinkite naująjį failą "details.aspx".
 5. Į puslapį įtraukite komponentą **XmlDataSource** (tiesiog pasirinkite iš paletės), komponentui užpildykite savybes taip:
   1. **DataFile** - šioje savybėje reikia įrašyti sukurto failo pavadinimą.
