@@ -18,6 +18,7 @@
 </Data>
 ```
 Galutinis puslapio vaizdas galėtų būti toks:
+
 ![Galimas puslapio vaizdas](https://raw.githubusercontent.com/niku-live/jpvs2015/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex3/example3.png)
 
 ###[4 užd.](https://github.com/niku-live/jpvs2015/tree/master/07%20tema%20-%20Web%20-%20ASP.NET/Mini%20Problems/Vol7Ex4)
