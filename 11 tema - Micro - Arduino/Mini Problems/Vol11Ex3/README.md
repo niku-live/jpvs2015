@@ -19,7 +19,7 @@ Sukurkite įrenginį, imituojantį automobiliuose įmontuotus atstumo sentorius 
 ##Eiga
 
 - Sujunkite schemą kaip parodytą paveikslėlyje 
-![schema] (https://github.com/niku-live/jpvs2015/tree/master/11%20tema%20-%2Micro%20-%20Arduino/Mini%20Problems/Vol11Ex3/circuit/vol11ex3_pict.jpg)
+![schema] (https://raw.githubusercontent.com/niku-live/jpvs2015/master/11%20tema%20-%2Micro%20-%20Arduino/Mini%20Problems/Vol11Ex3/circuit/vol11ex3_pict.jpg)
 - Parašykite tokią programą:
 ```cpp
 #include<LiquidCrystal.h>  

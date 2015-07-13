@@ -16,7 +16,7 @@ Sukurkite įrenginį, kuris LED lempučių eilės pagalba rodytų šviesos stipr
 ##Eiga
 
 - Sujunkite schemą kaip parodytą paveikslėlyje 
-![schema] (https://github.com/niku-live/jpvs2015/tree/master/11%20tema%20-%2Micro%20-%20Arduino/Mini%20Problems/Vol11Ex2/circuit/vol11ex2_pict.jpg)
+![schema] (https://raw.githubusercontent.com/niku-live/jpvs2015/master/11%20tema%20-%2Micro%20-%20Arduino/Mini%20Problems/Vol11Ex2/circuit/vol11ex2_pict.jpg)
 - Parašykite tokią programą:
 ```cpp
 const int NbrLEDs = 8; //lempuciu skaicius
