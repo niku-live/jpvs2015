@@ -16,7 +16,7 @@ Sukurkite įrenginį, kuris imituotų TV žaidimą "Kas pirmas paspaus mygtuką"
 ##Eiga
 
 - Sujunkite schemą kaip parodytą paveikslėlyje 
-![schema] (https://raw.githubusercontent.com/niku-live/jpvs2015/master/11%20tema%20-%2Micro%20-%20Arduino/Mini%20Problems/Vol11Ex1/circuit/vol11ex1_pict.jpg)
+![schema](https://raw.githubusercontent.com/niku-live/jpvs2015/master/11%20tema%20-%20Micro%20-%20Arduino/Mini%20Problems/Vol11Ex1/circuit/vol11ex1_pict.jpg)
 - Parašykite tokią programą:
 ```cpp
 #define player1 2  //pirmo zaidejo mygtuko kontaktas
