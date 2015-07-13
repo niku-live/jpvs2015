@@ -26,3 +26,13 @@ Informacija, kur sudėti video įrašai, moksleiviams pateikiama atskirai elektr
 
 - **Failo pavadinimas**: 2015-07-10\2015-07-10.avi
 - **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai mobiliųjų aplikacijų kūrimo principai. Parodyta kaip sukurti minimalias Android ir Windows Phone aplikacijas.
+
+#Video 7
+
+- **Failo pavadinimas**: 2015-07-13\2015-07-13_part1.avi
+- **Aprašymas**: Vaizdo įrašas iki pertraukos. Per paskaitą buvo aptarti pagrindiniai mikrovaldiklių programų kūrimo principai, parodyti įvairūs valdikliai ir pavyzdžiai, kaip juos galima panaudoti valdant įvairius įrenginius.
+
+#Video 8
+
+- **Failo pavadinimas**: 2015-07-13\2015-07-13_part2.avi
+- **Aprašymas**: Vaizdo įrašas po pertraukos. Per paskaitą buvo aptarti pagrindiniai mikrovaldiklių programų kūrimo principai, parodyti įvairūs valdikliai ir pavyzdžiai, kaip juos galima panaudoti valdant įvairius įrenginius.
