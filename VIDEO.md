@@ -36,3 +36,13 @@ Informacija, kur sudėti video įrašai, moksleiviams pateikiama atskirai elektr
 
 - **Failo pavadinimas**: 2015-07-13\2015-07-13_part2.avi
 - **Aprašymas**: Vaizdo įrašas po pertraukos. Per paskaitą buvo aptarti pagrindiniai mikrovaldiklių programų kūrimo principai, parodyti įvairūs valdikliai ir pavyzdžiai, kaip juos galima panaudoti valdant įvairius įrenginius.
+
+#Video 9
+
+- **Failo pavadinimas**: 2015-07-17\2015-07-17_part0.avi
+- **Aprašymas**: Vaizdo įrašas apie RaspberryPi programavimą. Buvo aptarta viena pavyzdinė programėlė bei parodytas pats RaspberryPi įjungimas ir naudojimas.
+
+#Video 10
+
+- **Failo pavadinimas**: 2015-07-17\2015-07-17_part1.avi
+- **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai Arduino Robot programavimo pavyzdžiai - šokantis robotas, robotas sekiojantis liniją, robotas reaguojantis į kliūtis.

@@ -10,3 +10,6 @@
 - **ex7**: pavyzdinė programėlė - OLED ekranėlyje rodomos įvairios animacijos.
 - **ex8**: pavyzdinė programėlė - savadarbė klaviatūra.
 - **ex9**: pavyzdinė programėlė - pasodaryk savo Arduino Uno.
+- **ex10**: pavyzdinė programėlė - robotai - Disco botas: šokantis robotas.
+- **ex11**: pavyzdinė programėlė - robotai - robotas, sekiojantis liniją.
+- **ex12**: pavyzdinė programėlė - robotai - robotas, reaguojantis į kliūtis.
