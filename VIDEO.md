@@ -17,32 +17,42 @@ Informacija, kur sudėti video įrašai, moksleiviams pateikiama atskirai elektr
 - **Failo pavadinimas**: 2015-06-22\2015-06-22_part3.avi
 - **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai WPF (Windows Presentation Foundation) aplikacijų kūrimo principai.
 
+##Video 4
+
+- **Failo pavadinimas**: 2015-06-29\2015-06-29.avi
+- **Aprašymas**: Žaidimų kūrimas, pirmoji Unity paskaita.
+
 ##Video 5
+
+- **Failo pavadinimas**: 2015-07-01\2015-07-01.avi
+- **Aprašymas**: Žaidimų kūrimas, antroji Unity paskaita.
+
+##Video 6
 
 - **Failo pavadinimas**: 2015-07-04\2015-07-04.avi
 - **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai internetinių aplikacijų kūrimo principai. Aptarta, kas yra HTML, CSS, Javascript, parodytos ASP.NET ir PHP minimalios aplikacijos.
 
-##Video 6
+##Video 7
 
 - **Failo pavadinimas**: 2015-07-10\2015-07-10.avi
 - **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai mobiliųjų aplikacijų kūrimo principai. Parodyta kaip sukurti minimalias Android ir Windows Phone aplikacijas.
 
-#Video 7
+#Video 8
 
 - **Failo pavadinimas**: 2015-07-13\2015-07-13_part1.avi
 - **Aprašymas**: Vaizdo įrašas iki pertraukos. Per paskaitą buvo aptarti pagrindiniai mikrovaldiklių programų kūrimo principai, parodyti įvairūs valdikliai ir pavyzdžiai, kaip juos galima panaudoti valdant įvairius įrenginius.
 
-#Video 8
+#Video 9
 
 - **Failo pavadinimas**: 2015-07-13\2015-07-13_part2.avi
 - **Aprašymas**: Vaizdo įrašas po pertraukos. Per paskaitą buvo aptarti pagrindiniai mikrovaldiklių programų kūrimo principai, parodyti įvairūs valdikliai ir pavyzdžiai, kaip juos galima panaudoti valdant įvairius įrenginius.
 
-#Video 9
+#Video 10
 
 - **Failo pavadinimas**: 2015-07-17\2015-07-17_part0.avi
 - **Aprašymas**: Vaizdo įrašas apie RaspberryPi programavimą. Buvo aptarta viena pavyzdinė programėlė bei parodytas pats RaspberryPi įjungimas ir naudojimas.
 
-#Video 10
+#Video 11
 
 - **Failo pavadinimas**: 2015-07-17\2015-07-17_part1.avi
 - **Aprašymas**: Per paskaitą buvo aptarti pagrindiniai Arduino Robot programavimo pavyzdžiai - šokantis robotas, robotas sekiojantis liniją, robotas reaguojantis į kliūtis.

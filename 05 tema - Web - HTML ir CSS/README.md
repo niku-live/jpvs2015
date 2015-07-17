@@ -8,7 +8,7 @@
 Kurti HTML ir CSS failus galima įvairiais redaktoriais, galima tą daryti net ir paprasčiausiu tekstiniu redaktoriumi (tokiu kaip *Notepad*). Vis tik patogiau tai daryti su specializuotais redaktoriais. *Visual Studio* vienas tokių įrankių. Norint kurti internetines aplikacijas *File -> New -> Project...* ir iš siūlomų projektų šablonų pasirinkite *Visual C# -> Web -> ASP.NET Web Application*
 
 ##Video įrašai
-- [Video 5](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-5)
+- [Video 6](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-6)
 
 ##[Pavyzdžiai](https://github.com/niku-live/jpvs2015/tree/master/05%20tema%20-%20Web%20-%20HTML%20ir%20CSS/Examples)
 

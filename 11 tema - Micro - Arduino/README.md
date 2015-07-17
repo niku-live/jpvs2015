@@ -21,9 +21,9 @@ Parašius programą, ją reikia sukelti į valdiklį. Norint tą padaryti reikia
 Schemų failus (.fzz) geriausia peržiūrėti ir redaguoti naudojant programą Fritzing.
   
 ##Video įrašai
-- [Video 7](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-7)
 - [Video 8](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-8)
-- [Video 10](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-10)
+- [Video 9](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-9)
+- [Video 11](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-11)
 
 ##[Pavyzdžiai](https://github.com/niku-live/jpvs2015/tree/master/11%20tema%20-%20Micro%20-%20Arduino/Examples)
 

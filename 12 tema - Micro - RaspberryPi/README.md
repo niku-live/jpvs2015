@@ -1,6 +1,6 @@
 ﻿#12 tema - Mikrovaldikliai - RaspberryPi
 
-**RaspberryPi** - tai nedidelės dėžutės dydžio kompiuteris, kuris gali būti naudojamas vietoj **Arduino** valdiklių įvairių įranginių valdymui. Kadangi tai įprastas kompiuteris, tai **RaspberryPi** turi daug galimybių, kurių **Arduino** nedali suteikti, vis tik tai kartu reiškia ir tai, kad įrenginys užtrunka, kol paliedžiama operacinė sistema bei sunaudojamas energijos kiekis daug didesnis. Standartiųkai **RasberryPi** naudoja Raspbian Linux operacinę sistemą, tačiau galima sudiegti ir alternatyvias operacines sistemas, tokias kaip Android, Windows 10 IoT ir pan.
+**RaspberryPi** - tai nedidelės dėžutės dydžio kompiuteris, kuris gali būti naudojamas vietoj **Arduino** valdiklių įvairių įrenginių valdymui. Kadangi tai įprastas kompiuteris, tai **RaspberryPi** turi daug galimybių, kurių **Arduino** nedali suteikti, vis tik tai kartu reiškia ir tai, kad įrenginys užtrunka, kol paleidžiama operacinė sistema bei sunaudojamas energijos kiekis daug didesnis. Įprastai **RasberryPi** naudoja Raspbian Linux operacinę sistemą, tačiau galima sudiegti ir alternatyvias operacines sistemas, tokias kaip Android, Windows 10 IoT ir pan.
 
 ##Trumpai
 Kadangi **RasberryPi** - normalus kompiuteris, tai programas jam galima kurti įvairiomis programavimo kalbomis - C, C++, Java, C#, Python, Ruby ir pan. Keletą patarimų:
@@ -12,7 +12,7 @@ Kadangi **RasberryPi** - normalus kompiuteris, tai programas jam galima kurti į
 - Jei norima koreguoti failą pačiame įrenginyje, tą galima padaryti surinkus komandą `nano programa,c`, kur **programa.c** - failas, kurį norime koreguoti.
   
 ##Video įrašai
-- [Video 9](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-9)
+- [Video 10](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-10)
 
 ##[Pavyzdžiai](https://github.com/niku-live/jpvs2015/tree/master/12%20tema%20-%20Micro%20-%20RaspberryPi/Examples)
 

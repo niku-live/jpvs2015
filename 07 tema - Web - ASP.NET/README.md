@@ -6,7 +6,7 @@
 *ASP.NET* aplikacijoms sukurti *Visual Studio 2013* aplinkoje pasirinkite *File -> New -> Project...* ir iš siūlomų projektų šablonų pasirinkite *Visual C# -> Web -> ASP.NET Web Project*.
 
 ##Video įrašai
-- [Video 5](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-5)
+- [Video 6](https://github.com/niku-live/jpvs2015/blob/master/VIDEO.md#video-6)
 
 ##[Pavyzdžiai](https://github.com/niku-live/jpvs2015/tree/master/07%20tema%20-%20Web%20-%20ASP.NET/Examples)
 
