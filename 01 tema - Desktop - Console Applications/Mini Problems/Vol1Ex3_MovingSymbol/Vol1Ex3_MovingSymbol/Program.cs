@@ -5,52 +5,28 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Vol1Ex3_MovingSymbol
-{
+{    
     class Program
     {
         static void Main(string[] args)
         {
-            int posX = 0;
-            int posY = 0;
-
+            Character character = new Character(0, 0, '#');
             while (true)
             {                
-                Console.SetCursorPosition(posX, posY);
-                Console.Write("#");
-                var keyInfo = Console.ReadKey(true);
+                ConsoleKeyInfo keyInfo = Console.ReadKey(true);
                 switch (keyInfo.KeyChar)
                 {
                     case 'a':
-                        Console.SetCursorPosition(posX, posY);
-                        Console.Write(" ");
-                        if (posX > 0)
-                        {
-                            posX--;
-                        }
+                        character.Move(-1, 0);
                         break;
                     case 'w':
-                        Console.SetCursorPosition(posX, posY);
-                        Console.Write(" ");                        
-                        if (posY > 0)
-                        {
-                            posY--;
-                        }
+                        character.Move(0, -1);
                         break;
                     case 'd':
-                        Console.SetCursorPosition(posX, posY);
-                        Console.Write(" ");
-                        if (posX < 79)
-                        {
-                            posX++;
-                        }
+                        character.Move(1, 0);
                         break;
                     case 's':
-                        Console.SetCursorPosition(posX, posY);
-                        Console.Write(" ");
-                        if (posY < 25)
-                        {
-                            posY++;
-                        }
+                        character.Move(0, 1);
                         break;
 
                 }

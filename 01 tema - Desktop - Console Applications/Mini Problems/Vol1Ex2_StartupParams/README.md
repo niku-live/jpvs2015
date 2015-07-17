@@ -6,4 +6,23 @@ Sukurkite konsolinę programėlę, kuri išspausdintų į ekraną viską, kas pa
 
 ##Patarimai
 
-1. Naudokite masyvą "args", kuris yra standartinio metodo *Main* vienintelis parametras.
+- Naudokite masyvą **args**, kuris yra standartinio metodo **Main** vienintelis parametras.
+
+##Eiga
+
+- Sukurkite naują konsolinės aplikacijos projektą:
+  1. *Visual Studio* lange pasirinkite **File -> New -> Project...**.
+  2. Iš siūlomų projektų šablonų pasirinkite **Visual C# -> Windows Desktop -> Console Application**.
+  3. Įveskite pageidaujamą projekto pavadinimą ir spauskite **OK**.
+- Pakeiskite funkcijos `Main` programinį kodą taip:
+```csharp
+static void Main(string[] args)
+{
+    foreach (string arg in args)
+    {
+        Console.WriteLine(arg);
+    }
+    Console.ReadLine();
+}
+```
+- Paleiskite programą pasirinkę **Debug -> Start Debugging**.
