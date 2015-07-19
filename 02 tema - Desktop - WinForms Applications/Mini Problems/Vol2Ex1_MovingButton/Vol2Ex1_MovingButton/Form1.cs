@@ -20,7 +20,7 @@ namespace Vol2Ex1_MovingButton
  
         private void button1_MouseMove(object sender, MouseEventArgs e)
         {
-            var location = button1.Location;
+            Point location = button1.Location;
             location.X += 10;
             location.Y += 10;
             button1.Location = location;
